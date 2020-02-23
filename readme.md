@@ -1,16 +1,19 @@
-## Aplikasi Pembukuan Penjualan PULSA
+## Aplikasi Pembukuan Nilai Raport
 
-Aplikasi Pembukuan Penjualan PULSA berbasis web menggunakan Codeigniter dan MySQL. Aplikasi ini saya buat beberapa tahun lalu pertama kali mengenal framework php. Dengan aplikasi ini sangat membantu saya ketika melakukan rekap / pembukuan penjualan PULSA yang saya buat seusai kebutuhan waktu itu. Semoga Bermanfaat :)
+Aplikasi Pembukuan Nilai Raport berbasis web menggunakan Codeigniter dan MySQL. Aplikasi ini saya buat beberapa tahun lalu pertama kali mengenal framework php. Terdapat 2 Role login yaitu sebagai admin atau sebagai guru kelas. Semoga Bermanfaat :)
 
 1. Halaman Login Aplikasi
 ![](screenshoot/login.png)
 
-2. Halaman Master
-![](screenshoot/master.png)
+3. Halaman Absensi
+![](screenshoot/absen.png)
+
+2. Halaman Raport
+Dilengkapi dengan fitur simpan ke PDF.
+![](screenshoot/raport.png)
 
 ## Cara Instalasi
 1. git clone (url) 
 2. Import database pulsa.sql
-5. Login Akun : admin (admin)
 
 Selamat Mencoba :))
